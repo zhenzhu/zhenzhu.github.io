@@ -12,16 +12,20 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a:link {
+a {
     text-decoration: none;
     color: rgb(0,100,200);
 }
+/*a:link {
+    text-decoration: none;
+    color: rgb(0,100,200);
+} */
 a:hover {
     text-decoration: underline;
 }
-a:active {
+/* a:active {
     color: rgb(200,0,0);
-}
+} */
 h1 {
     font-size: 3em;
     font-family:'Georgia','Helvetica', 'Arial', 'Sans-Serif';
