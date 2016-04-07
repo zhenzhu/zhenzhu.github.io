@@ -16,11 +16,11 @@ a:link {
     text-decoration: none;
     color: rgb(0,100,200);
 }
-a:visited {
-    color: rgb(200,0,0);
-}
 a:hover {
     text-decoration: underline;
+}
+a:active {
+    color: rgb(200,0,0);
 }
 h1 {
     font-size: 3em;
