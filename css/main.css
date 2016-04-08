@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Georgia','Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Adelle','Georgia','Times New Roman','Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -13,7 +13,8 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-	font-weight: bold;
+	/* font-weight: bold; */
+	font-family:'Adelle','Georgia','Times New Roman','Serif';
     text-decoration: none;
     color: rgb(3,136,166);
 }
@@ -29,10 +30,11 @@ a:hover {
 } */
 h1 {
     font-size: 3em;
-    font-family:'Georgia','Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Adelle','Georgia','Times New Roman','Serif';
 }
 p {
     font-size: 1.5em;
+    font-family:'Adelle','Georgia','Times New Roman','Serif';
     line-height: 1.4em;
     /* color: rgb(0,0,0); */
 }
