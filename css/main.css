@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Adelle','Georgia','Times New Roman','Serif';
+    font-family:'adelle','Georgia','Times New Roman','Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
 	/* font-weight: bold; */
-	font-family:'Adelle','Georgia','Times New Roman','Serif';
+	font-family:'adelle','Georgia','Times New Roman','Serif';
     text-decoration: none;
     color: rgb(3,136,166);
 }
@@ -30,16 +30,16 @@ a:hover {
 } */
 h1 {
     font-size: 3em;
-    font-family:'Adelle','Georgia','Times New Roman','Serif';
+    font-family:'adelle','Georgia','Times New Roman','Serif';
 }
 h3 {
     font-size: 1.5em;
 	font-weight: bold;
-    font-family:'Adelle','Georgia','Times New Roman','Serif';
+    font-family:'adelle','Georgia','Times New Roman','Serif';
 }
 p {
     font-size: 1em;
-    font-family:'Adelle','Georgia','Times New Roman','Serif';
+    font-family:'adelle','Georgia','Times New Roman','Serif';
     line-height: 1.4em;
     /* color: rgb(0,0,0); */
 }
